@@ -8,4 +8,4 @@ console.log(c);
 }, "jsonp");
 
   });
-})(jQuery);
+})(jQuery); 
